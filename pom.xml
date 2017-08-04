@@ -61,7 +61,7 @@
         </plugins>
     </build>
 
-
+<!-- Package as an executable jar -->
 
 
 </project>
